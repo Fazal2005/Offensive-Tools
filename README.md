@@ -28,6 +28,12 @@ A script to install offensive pentesting tools for me in a selfish way ;)
 - Httprobe
 - Seclists collection
 
+# Installing
+- git clone https://github.com/Fazal2005/Offensive-Tools.git
+- cd tools
+- chmod +x tools.sh
+- ./tools.sh
+
 
 
 **This script was written inspired by nahamsec!**
