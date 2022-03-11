@@ -30,7 +30,7 @@ A script to install offensive pentesting tools for me in a selfish way ;)
 
 # Installing
 - git clone https://github.com/Fazal2005/Offensive-Tools.git
-- cd tools
+- cd Offensive-Tools
 - chmod +x tools.sh
 - ./tools.sh
 
